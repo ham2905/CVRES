@@ -1,3 +1,9 @@
+#name{
+  font-size: 4rem;
+}
+
+
+
 .head
 {
   font-family: 'Oswald', sans-serif;
@@ -18,4 +24,12 @@
 
 .carousel-item{
   height: 4rem;
+}
+.Qualifications{
+  padding: 1rem;
+}
+.break{
+  background-color: #e9ecef;
+  padding: 0;
+  margin: 0;
 }
