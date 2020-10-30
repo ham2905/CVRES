@@ -13,4 +13,9 @@
 }
 .pad{
   padding-bottom: 1.5rem;
+
+}
+
+.carousel-item{
+  height: 4rem;
 }
